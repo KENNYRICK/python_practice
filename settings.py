@@ -22,5 +22,5 @@ vehicle_width = 80
 vehicle_height = 40
 vehicle_start_x = 100
 vehicle_start_y = 400
-vehicle_speed = 65
+vehicle_speed = 30
 
