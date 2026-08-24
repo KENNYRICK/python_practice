@@ -1,0 +1,6 @@
+Welcome to Frogger.
+
+if you dont know the rules shame on you. 
+
+use arrowkeys to move and dont get hit by a car or drown
+
